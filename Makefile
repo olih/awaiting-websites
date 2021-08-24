@@ -8,3 +8,4 @@ gen:
 	mkdir -p websites/olivierhuin_com
 	ts-node generator/awaiting/generate.ts
 	prettier --write websites/*/index.html
+	cp websites/olivierhuin_com/index.html websites/olivierhuin_com/home.html
