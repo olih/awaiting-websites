@@ -20,10 +20,22 @@ export const websitesData: AwaitingWebsite[] = [
     domain: "sle3k.com",
   },
   {
+    dest: "sle3k_net",
+    description: "Discover the sleek designs made in London",
+    title: "sle3k.net | graphic designs made in London",
+    domain: "sle3k.net",
+  },
+  {
     dest: "swe3t_com",
     description: "Discover the sweet taste of London",
     title: "swe3t.com | a new sweet taste of London",
     domain: "swe3t.com",
+  },
+  {
+    dest: "swe3t_net",
+    description: "Discover the sweet taste of London",
+    title: "swe3t.net | a new sweet taste of London",
+    domain: "swe3t.net",
   },
   {
     dest: "m96w_com",
